@@ -35,7 +35,8 @@ header ul li {
   align-items: center;
   gap: 10px;
 }
-.nimadir{
+
+.nimadir {
   padding: 20px 60px;
 }
 
@@ -43,14 +44,15 @@ header ul li {
   height: 100vh;
   text-align: center;
   display: flex;
-  background-repeat:no-repeat;
-  background-image:url("main-pic-bg (1).png") ;
-  border: radius 30px; 
+  background-repeat: no-repeat;
+  background-image: url("main-pic-bg (1).png");
+  border: radius 30px;
   align-items: center;
   justify-content: center;
   flex-direction: column;
 }
-.nimadir button {
+
+.nimadir .btn {
   width: 288px;
   height: 64px;
   background-color: #3B9254;
@@ -61,14 +63,16 @@ header ul li {
   margin-left: 165px;
   gap: 10px#FFFFFF;
 }
+
 .box h1 {
   width: 600px;
   font-size: 56px;
   color: #FFFFFF;
-  }
-  .box p {
-    width: 500px;
-    font-size: 20px;
-    color: #FFFFFF;
-    margin-left: 50px;
-    }
+}
+
+.box p {
+  width: 500px;
+  font-size: 20px;
+  color: #FFFFFF;
+  margin-left: 50px;
+}

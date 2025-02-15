@@ -50,6 +50,7 @@ header ul li {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  gap: 10px;
 }
 
 .nimadir .btn {
@@ -75,4 +76,14 @@ header ul li {
   font-size: 20px;
   color: #FFFFFF;
   margin-left: 50px;
+}
+.nimadir  img  {
+  margin-top: 300px;
+}
+.btn img {
+  margin-top: -1px;
+  
+}
+.btn {
+  gap: 10px;
 }

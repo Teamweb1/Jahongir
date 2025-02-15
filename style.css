@@ -33,15 +33,42 @@ header ul li {
 .setting {
   display: flex;
   align-items: center;
+  gap: 10px;
 }
+.nimadir{
+  padding: 20px 60px;
+}
+
 .box {
   height: 100vh;
+  text-align: center;
   display: flex;
   background-repeat:no-repeat;
   background-image:url("main-pic-bg (1).png") ;
-  color: #00000033 ;
   border: radius 30px; 
   align-items: center;
   justify-content: center;
   flex-direction: column;
 }
+.nimadir button {
+  width: 288px;
+  height: 64px;
+  background-color: #3B9254;
+  align-items: center;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  margin-left: 165px;
+  gap: 10px;
+}
+.box h1 {
+  width: 600px;
+  font-size: 56px;
+  color: #FFFFFF;
+  }
+  .box p {
+    width: 500px;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-left: 50px;
+    }

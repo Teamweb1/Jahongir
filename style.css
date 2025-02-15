@@ -34,3 +34,14 @@ header ul li {
   display: flex;
   align-items: center;
 }
+.box {
+  height: 100vh;
+  display: flex;
+  background-repeat:no-repeat;
+  background-image:url("main-pic-bg (1).png") ;
+  color: #00000033 ;
+  border: radius 30px; 
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

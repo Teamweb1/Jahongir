@@ -9,6 +9,7 @@ header button {
   height: 56px;
   border-radius: 10px;
   background-color: #3B9254;
+  gap: 20px;
 
 }
 
@@ -86,4 +87,34 @@ header ul li {
 }
 .btn {
   gap: 10px;
+}
+ .hamasi {
+  background-image: url("Asset\ 1\ 1.png");
+  background-color: #24733B;
+  align-items: center;
+  justify-content: center;
+  margin-right: +9px;
+ }
+
+.hamasi input {
+  width: 283px;
+  height: 56px;
+  border-radius: 10px;
+
+}
+.tugma {
+  width: 196px;
+  height: 56px;
+  border-radius: 10px;
+  background-color:  #232120;
+  color: #FFFFFF;
+  gap: 20px;
+  padding: 20px 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 
+.hamasi img {
+ background-color:#FFFFFF;
+ align-items: center;
 }

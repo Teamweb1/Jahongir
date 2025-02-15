@@ -59,7 +59,7 @@ header ul li {
   display: flex;
   justify-content: center;
   margin-left: 165px;
-  gap: 10px;
+  gap: 10px#FFFFFF;
 }
 .box h1 {
   width: 600px;

@@ -96,8 +96,8 @@ header ul li {
 .hamasi {
   background-image: url("Asset\ 1\ 1.png");
   background-color: #24733B;
-height: 200px;
- 
+  height: 200px;
+
 }
 
 .hamasi input {
@@ -142,7 +142,7 @@ height: 200px;
 }
 
 .box1 {
- 
+
   border-radius: 10px;
   background-image: url("Asset\ 1\ 1.png");
   background-color: #F0E7D9;
@@ -188,50 +188,80 @@ height: 200px;
 
 .otadiv1 {
   background-color: #F6F6F6;
-  width: 480px;
-  height: 200px;
   border-radius: 10px;
   flex-wrap: wrap;
   padding: 20px 50px;
+  width: 1181;
+  height: 420;
+
 }
 
-.nimadir1 {
-  display: flex;
-  align-items: center;
-  padding: 20px 50px;
-  gap: 10px;
-}
 
-.sarlavha1  {
+
+.sarlavha1 {
   width: 480;
   height: 200;
   border-radius: 10px;
-  
+
 }
+
 
 .sarlavha2 {
   width: 680;
   height: 200;
   border-radius: 10px;
+  
 }
 
 .sarlavha3 {
   width: 280;
   height: 200;
   border-radius: 10px;
+  
 }
 
-.sarlavha4 p{
-  width: 580;
-  height: 200;
+.sarlavha4 p {
+  width: 281px;
+  height: 200px;
   border-radius: 10px;
+  
 }
 
-.sarlavha5 p{
-  width: 281;
-  height: 200;
+.sarlavha5 p {
+  width: 580px;
+  height: 200px;
   border-radius: 10px;
+  
 }
+
 body {
   background-color: white;
+}
+
+.hamasi1 {
+  display: flex;
+  gap: 300px;
+}
+.hamasi2{
+  display: flex;
+  gap: 200px;
+}
+.box2 {
+  border-radius: 10px;
+  background-image: url("Asset\ 1\ 1.png");
+  background-color: #EAF5ED;
+  padding: 20px 50px;
+  width: 1515;
+height: 556;
+}
+
+.box2 .about {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+}
+.box2 .rasim4 {
+  display: flex;
+  gap: 30px ;
 }

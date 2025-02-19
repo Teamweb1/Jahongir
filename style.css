@@ -28,6 +28,7 @@ ul {
 header ul li {
   list-style: none;
 
+
 }
 
 
@@ -78,23 +79,26 @@ header ul li {
   color: #FFFFFF;
   margin-left: 50px;
 }
-.nimadir  img  {
+
+.nimadir img {
   margin-top: 300px;
 }
+
 .btn img {
   margin-top: -1px;
-  
+
 }
+
 .btn {
   gap: 10px;
 }
- .hamasi {
+
+.hamasi {
   background-image: url("Asset\ 1\ 1.png");
   background-color: #24733B;
-  align-items: center;
-  justify-content: center;
-  margin-right: +9px;
- }
+height: 200px;
+ 
+}
 
 .hamasi input {
   width: 283px;
@@ -102,19 +106,132 @@ header ul li {
   border-radius: 10px;
 
 }
+
 .tugma {
   width: 196px;
   height: 56px;
   border-radius: 10px;
-  background-color:  #232120;
+  background-color: #232120;
   color: #FFFFFF;
   gap: 20px;
   padding: 20px 100px;
   display: flex;
   justify-content: center;
   align-items: center;
-} 
+}
+
 .hamasi img {
- background-color:#FFFFFF;
- align-items: center;
+  background-color: #FFFFFF;
+  align-items: center;
+}
+
+
+
+.otadiv {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+
+
+}
+
+.rasim {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.box1 {
+ 
+  border-radius: 10px;
+  background-image: url("Asset\ 1\ 1.png");
+  background-color: #F0E7D9;
+  padding: 20px 50px;
+
+}
+
+.box .rasim1 {
+  border-radius: 10px;
+  margin-left: 110px;
+}
+
+.box button {
+  width: 160px;
+  height: 25px;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.box .sarlavha {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.box p {
+  width: 600px;
+  height: 18px;
+}
+
+.box .tugma1 {
+  background-color: #3B9254;
+  width: 156px;
+  height: 56px;
+}
+
+.rasim3 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.otadiv1 {
+  background-color: #F6F6F6;
+  width: 480px;
+  height: 200px;
+  border-radius: 10px;
+  flex-wrap: wrap;
+  padding: 20px 50px;
+}
+
+.nimadir1 {
+  display: flex;
+  align-items: center;
+  padding: 20px 50px;
+  gap: 10px;
+}
+
+.sarlavha1  {
+  width: 480;
+  height: 200;
+  border-radius: 10px;
+  
+}
+
+.sarlavha2 {
+  width: 680;
+  height: 200;
+  border-radius: 10px;
+}
+
+.sarlavha3 {
+  width: 280;
+  height: 200;
+  border-radius: 10px;
+}
+
+.sarlavha4 p{
+  width: 580;
+  height: 200;
+  border-radius: 10px;
+}
+
+.sarlavha5 p{
+  width: 281;
+  height: 200;
+  border-radius: 10px;
+}
+body {
+  background-color: white;
 }
